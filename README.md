@@ -1,11 +1,11 @@
 # Unix & Linux book collection
 
-* [Network](https://unix-books.github.io/network)
-* [System](https://unix-books.github.io/system)
+* [Network](https://unix-linux-books.github.io/network)
+* [System](https://unix-linux-books.github.io/system)
 
 ----
 
-* [Miscellaneous](https://unix-books.github.io/miscellaneous)
+* [Miscellaneous](https://unix-linux-books.github.io/miscellaneous)
 
 ----
 
