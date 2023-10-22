@@ -2,7 +2,7 @@
 
 ## [History](./books/history)
 
-* [*Unix: A History and a Memoir* by Brian Kernighan](./books/history/UNIX-A-History-and-a-Memoir_RuLit_Me_616356.pdf)
+* [**_Unix: A History and a Memoir_**](./books/history/UNIX-A-History-and-a-Memoir_RuLit_Me_616356.pdf) by Brian Kernighan
 
 ## [Network](./books/network/)
 
