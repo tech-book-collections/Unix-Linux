@@ -17,6 +17,8 @@
 
 ## [Shell](./books/shell/)
 
+* [*Advanced Bash Scripting Guide* by Mendel Cooper](./books/shell/0245-advanced-bash-scripting-guide.pdf)
+* [*Mastering Linux Shell Scripting* by Mokhtar Ebrahim & Andrew Mallett](./books/shell/mastering-linux-shell-scripting.pdf)
 * [*Mastering UNIX Shell Programming* by Randal K. Michael](./books/shell/Mastering%20UNIX%20Shell%20Scripting.pdf)
 
 ----
