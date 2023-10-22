@@ -22,6 +22,7 @@
 ## [Shell](./books/shell/)
 
 * [*Advanced Bash Scripting Guide* by Mendel Cooper](./books/shell/0245-advanced-bash-scripting-guide.pdf)
+* [*Linux Shell Scripting Cookbook* by Clif Flynt, Sarath Lakshman, and Shantanu Tushar](./books/shell/Linux%20Shell%20Scripting%20Cookbook%20-%20Third%20Edition.pdf)
 * [*Mastering Linux Shell Scripting* by Mokhtar Ebrahim & Andrew Mallett](./books/shell/mastering-linux-shell-scripting.pdf)
 * [*Mastering UNIX Shell Programming* by Randal K. Michael](./books/shell/Mastering%20UNIX%20Shell%20Scripting.pdf)
 
