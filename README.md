@@ -1,12 +1,5 @@
-# Unix & Linux book collection
+# Unix & Linux books
 
-* [Network](https://unix-linux-books.github.io/network)
-* [System](https://unix-linux-books.github.io/system)
-
-----
-
-* [Miscellaneous](https://unix-linux-books.github.io/miscellaneous)
-
-----
+[**Click here to read books from this repository**](./books/README.md)
 
 ![Unix & Linux](./Unix%20%26%20Linux.png)
