@@ -15,6 +15,10 @@
     * [3rd edition](./books/network/Unix%20Network%20Programming%20-%20W.%20Richard%20Stevens/3rd%20Edition/)
         * [Volume 1](./books/network/Unix%20Network%20Programming%20-%20W.%20Richard%20Stevens/3rd%20Edition/Unix%20Network%20Programming%20-%20W.%20Richard%20Stevens%20-%203rd%20Edition%20Volume%201.pdf)
 
+## [Shell](./books/shell/)
+
+* [*Mastering UNIX Shell Programming* by Randal K. Michael](./books/shell/Mastering%20UNIX%20Shell%20Scripting.pdf)
+
 ----
 
 ![Unix & Linux](./Unix%20%26%20Linux.png)
